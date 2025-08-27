@@ -1,4 +1,4 @@
-Integrantes del grupo:
+Integrantes del grupo: <br>
 Lucas Figueroa, (mikluha12) <br>
 Ignacio Huanca, (Ignacio367) <br>
 Enrique Real, (Mageofdark) <br>
