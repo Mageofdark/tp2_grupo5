@@ -20,5 +20,6 @@ public class Ejercicio12 {
         System.out.println("Edad no permitida");
         }
 
+        scanner.close();
     }
 }
