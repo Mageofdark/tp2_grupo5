@@ -1,3 +1,5 @@
+package ar.edu.unju.escmi.tp2.ejercicio10;
+
 public class Ejercicio10 {
     public static void main(String[] args) {
         int a = 7, b = 5, c = -14;

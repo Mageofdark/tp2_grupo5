@@ -1,3 +1,5 @@
+package ar.edu.unju.escmi.tp2.ejercicio15;
+
 import java.util.Scanner;
 
 public class Ejercicio15 {
