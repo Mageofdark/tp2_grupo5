@@ -22,3 +22,9 @@ public class Ejercicio17 {
         }
     }
 }
+
+/*
+ * Si dos o mas objetos Integer tienen el mismo valor dentro del rango [-128, 127 ] java lo almacena en cache para ahorrar memoria y mejorar el rendimiento.
+ * Por eso, en num1 == num2 sus referencias son iguales, es decir, apuntan al mismo objeto. pero si elegimos un numero afuera de ese rango
+ * las referencias ya no seran iguales, sin importar si num1 y num2 tienen el mismo valor.
+*/
