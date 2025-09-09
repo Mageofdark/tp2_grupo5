@@ -30,6 +30,7 @@ public class Ejercicio16 {
         for (int i = n - 1; i >= 0; i--)
             System.out.print(nombres[i] + " ");
         System.out.println();
+        scanner.close();
     }
 
 
