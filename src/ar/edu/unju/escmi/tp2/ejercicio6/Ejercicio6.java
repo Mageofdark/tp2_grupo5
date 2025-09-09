@@ -10,6 +10,7 @@ public class Ejercicio6 {
         radio = scanner.nextInt();
         double area = Math.PI * Math.pow(radio, 2);
         System.out.println("El área del círculo es: " + area);
+        scanner.close();
     }
     
 }
